@@ -8,3 +8,7 @@ It refers to what we normally intend as strings, so stuff like "hello world \n" 
 Other escape sequences include: `\t` for tab, `\b` for backspace, `\"` for the double quote and `\\` for backlash.
 To be noted: the `%` weird sign that you see at the end of some `printf` without the `\n` can be avoid by actually using `printf`
 If you put a width value in between `%3\d` you are effectively indenting the output of `printf`
+
+## integers are converted to floating points
+
+The case we have seen here is that if an integer is in an arithmetic operation with a float, the integer is automatically converted to a float.
