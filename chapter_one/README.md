@@ -5,3 +5,4 @@ This is mainly an intro chapter focusing on basic data structures and simple pro
 ## character string or constant
 
 It refers to what we normally intend as strings, so stuff like "hello world \n" where the `\n` is the newline character.
+Other escape sequences include: `\t` for tab, `\b` for backspace, `\"` for the double quote and `\\` for backlash.
