@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("=== Temperature Converter ===");
+  printf("=== Temperature Converter ===\n");
   return 0;
 }
